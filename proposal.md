@@ -39,8 +39,12 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+A list of classes that are required prerequisites for an intended course enrollment.
+A list of classes that use current course enrollments as their required prerequisites.
 
-
+Enrollment: CS 200
+Past Prerequisites: N/A
+Classes that use this course as a Prerequisite: CS 300
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
