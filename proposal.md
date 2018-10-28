@@ -1,4 +1,4 @@
-# X-Team 009 UW-Madison Class Enrollment System 
+# X-Team 009 UW-Madison Course Enrollment System 
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -30,7 +30,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 Improve the user experience using the online class enrollment system.
-More accurate 
+#1. More accurate results when searching. For example, searching "CS" would return the same results as searching "COMP SCI".
+#2. More consistent search results. For example, searching "CS 300" should return a list of computer science courses as on top of the results.
+#3. If the searched course is a lower level (closer to the first course in Computer Science), then print the course with that course first and other computer science courses in an ascending order starting from the first course. Example: "Comp Sci 300", "Comp Sci 200", "Comp Sci 252"... 
+#4. If the searched course is a higher level course (closer to the last course in Computer Science), then print the course with that course first and other comupter science courses starting from that searched course. Example: "Comp Sci 537", "Comp Sci 540", "Comp Sci 559"...
 
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
@@ -39,7 +42,7 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-UW-Madison Enrollment System
+UW-Madison Course Enrollment System
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 A list of classes that are required prerequisites for an intended course enrollment.
