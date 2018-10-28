@@ -59,6 +59,9 @@ or they can input the department of the course.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+![alt text][UI]
+
+[UI]: https://github.com/ChuYeeGan/cs400-X-Team-009/blob/master/UserInterface.png "Example User Interface"
 
 
 
