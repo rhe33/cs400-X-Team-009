@@ -43,7 +43,8 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-The user will input the course that they want to look up, or they can input the department of the course.
+The user will input the course that they want to look up,
+or they can input the department of the course.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
