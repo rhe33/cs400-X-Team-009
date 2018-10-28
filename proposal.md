@@ -47,7 +47,8 @@ Past Prerequisites: N/A
 Classes that use this course as a Prerequisite: CS 300
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+The user will input the course that they want to look up,
+or they can input the department of the course.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
