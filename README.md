@@ -10,7 +10,7 @@
        * GitHub username 1:       name 1:
        * GitHub username 2:       name 2:
        * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 4: bvancamp99      name 4: Bryce Van Camp
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
