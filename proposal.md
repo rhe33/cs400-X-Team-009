@@ -35,6 +35,8 @@ Improve the user experience using the online class enrollment system.
 #3. If the searched course is a lower level (closer to the first course in Computer Science), then print the course with that course first and other computer science courses in an ascending order starting from the first course. Example: "Comp Sci 300", "Comp Sci 200", "Comp Sci 252"... 
 #4. If the searched course is a higher level course (closer to the last course in Computer Science), then print the course with that course first and other comupter science courses starting from that searched course. Example: "Comp Sci 537", "Comp Sci 540", "Comp Sci 559"...
 
+We will use a doubly-linked list to represent the graph. Each course has its references to its prerequisite courses and the courses students can take after taking that course. Each class also has a catalog number so that the whole course corpus could be sorted.
+
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
