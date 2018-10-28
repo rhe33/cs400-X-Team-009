@@ -11,6 +11,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
+We plan to focus on the most difficult parts of each program as a group.  Also, we will assign a person to work on each method in the program and collaborate when necessary.
 
 
 ## How will we track progress (and follow-up) on completion of tasks
