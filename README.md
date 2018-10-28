@@ -11,7 +11,6 @@
        * GitHub username 2:rhe33       name 2: Ruoyu He
        * GitHub username 3:       name 3:
        * GitHub username 4: bvancamp99      name 4: Bryce Van Camp
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 
