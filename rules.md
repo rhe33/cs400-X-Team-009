@@ -18,12 +18,12 @@ and missed deadlines.
 We will use GitHub to automatically update files that were modified.  We also will use Discord to keep track of each team member's edits.
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will we communicate difficulties with a task assigned to us
+Group meet up / voice call
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We email or text each other each week to ensure that there is nothing important missing from the assignment.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
