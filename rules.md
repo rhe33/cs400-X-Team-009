@@ -13,7 +13,7 @@ and missed deadlines.
 
 
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 
 
 
