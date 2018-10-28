@@ -59,6 +59,9 @@ or they can input the department of the course.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+We would use a doubly linked list to determine the predecessors and successors of a class.
+For example, CS300 has a predecessor of CS200 and a successor of CS400.
+We will have a Node class to store the information of each class, like the description, number of credits, and breadth.
 
 
 
