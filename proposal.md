@@ -41,6 +41,7 @@ Describe at a high level a program that could solve that problem.
 
 UW-Madison Enrollment System
 
+
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
 A list of classes that are required prerequisites for an intended course enrollment.
@@ -50,6 +51,7 @@ Enrollment: CS 200
 Past Prerequisites: N/A
 Classes that use this course as a Prerequisite: CS 300
 
+
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 The user will input the course that they want to look up,
@@ -57,6 +59,7 @@ or they can input the department of the course.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+
 
 
 
