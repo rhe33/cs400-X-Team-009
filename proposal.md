@@ -42,6 +42,7 @@ Describe at a high level a program that could solve that problem.
 UW-Madison Enrollment System
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+
 A list of classes that are required prerequisites for an intended course enrollment.
 A list of classes that use current course enrollments as their required prerequisites.
 
@@ -50,6 +51,7 @@ Past Prerequisites: N/A
 Classes that use this course as a Prerequisite: CS 300
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 The user will input the course that they want to look up,
 or they can input the department of the course.
 
@@ -63,9 +65,22 @@ or they can input the department of the course.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+We would use a doubly linked list to determine the predecessors and successors of a class.
+For example, CS300 has a predecessor of CS200 and a successor of CS400.
+We will have a Node class to store the information of each class, like the description, number of credits, and breadth.
+
 
 
 Name each interface or class and briefly describe its function or purpose.
+
+Interface: ClassADT
+- carry method names to be implemented in Class
+
+Class: Class
+- drives the functionality of the program
+
+Nested class: Node
+- contains each course as a node with information about it
 
 
 ## Edit and Submit this file and any figures referenced by this document.
