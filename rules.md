@@ -26,6 +26,6 @@ We email or text each other each week to ensure that there is nothing important 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Desribe progress or bugs you have made whenever pushing to the github.
 
 
