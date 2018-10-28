@@ -15,6 +15,7 @@ and missed deadlines.
 
 ## How will we track progress (and follow-up) on completion of tasks
 
+We will use GitHub to automatically update files that were modified.  We also will use Discord to keep track of each team member's edits.
 
 
 ## How will will communicate difficulties with a task assigned to us
