@@ -7,12 +7,17 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
+       
+
        * GitHub username 1:ChuYeeGan       name 1:Chu Yee Gan
        * GitHub username 2:rhe33       name 2: Ruoyu He
-       * GitHub username 3:       name 3:
+       * GitHub username 3:jordanpaquin name 3: Jordan Paquin
        * GitHub username 4: bvancamp99      name 4: Bryce Van Camp
+
    * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+Sunday October 28th
+   * How long did it take your team to complete this exercise?
+About an hour 
 
 ## Table of Contents
 

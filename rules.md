@@ -1,5 +1,6 @@
 # X-Team 09 Rules
 
+
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
 when a member is unable to complete a task that has been assigned to that member.
@@ -12,7 +13,7 @@ and missed deadlines.
 
 
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 
 
 
