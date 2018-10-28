@@ -16,8 +16,8 @@ and missed deadlines.
 
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How will we communicate difficulties with a task assigned to us
+Group meet up / voice call
 
 
 ## How we will back up each other to ensure that deadlines are not missed
