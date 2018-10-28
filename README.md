@@ -10,10 +10,12 @@
        * GitHub username 1:       name 1:
        * GitHub username 2:       name 2:
        * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 4:jordanpaquin name 4: Jordan Paquin
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+Sunday October 28th
+   * How long did it take your team to complete this exercise?
+About an hour 
 
 ## Table of Contents
 
