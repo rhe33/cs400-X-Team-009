@@ -22,7 +22,7 @@ and missed deadlines.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We email or text each other each week to ensure that there is nothing important missing from the assignment.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
