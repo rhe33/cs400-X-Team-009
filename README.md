@@ -1,8 +1,8 @@
 # xteam-exercise-2: https://github.com/rhe33/cs400-X-Team-009
 
 1. Edit the title of this document
-   * Replace <UserName> with the user name of the team member who created shared repository
-   * Replace <GitHubRepositoryName> with the name of your team's GitHub repository for this exercise.
+   * Replace rhe33 with the user name of the team member who created shared repository
+   * Replace cs400-X-Team-009 with the name of your team's GitHub repository for this exercise.
    * Remove the angle brackets <> if they are still there in the title
 
 2. Answer these questions
