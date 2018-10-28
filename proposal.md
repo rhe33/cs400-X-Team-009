@@ -72,8 +72,10 @@ Name each interface or class and briefly describe its function or purpose.
 
 Interface: ClassADT
 - carry method names to be implemented in Class
+
 Class: Class
 - drives the functionality of the program
+
 Nested class: Node
 - contains each course as a node with information about it
 
