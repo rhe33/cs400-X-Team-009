@@ -1,4 +1,4 @@
-# X-Team 09 Project Proposal
+# X-Team 009 UW-Madison Class Enrollment System 
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -28,6 +28,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
+
+Improve the user experience using the online class enrollment system.
+More accurate 
 
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
