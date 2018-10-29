@@ -1,15 +1,15 @@
 # xteam-exercise-2: https://github.com/rhe33/cs400-X-Team-009
 
 1. Edit the title of this document
-   * Replace <rhe33> with the user name of the team member who created shared repository
-   * Replace <cs400-X-Team-009> with the name of your team's GitHub repository for this exercise.
+   * Replace <UserName> with the user name of the team member who created shared repository
+   * Replace <GitHubRepositoryName> with the name of your team's GitHub repository for this exercise.
    * Remove the angle brackets <> if they are still there in the title
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
        
-       * GitHub username 1:ChuYeeGan     name 1:Chu Yee Gan
-       * GitHub username 2:rhe33       	 name 2: Ruoyu He
+       * GitHub username 1:ChuYeeGan     name 1: Chu Yee Gan
+       * GitHub username 2:dyyfk     	 name 2: Ruoyu He
        * GitHub username 3:jordanpaquin  name 3: Jordan Paquin
        * GitHub username 4:bvancamp99    name 4: Bryce Van Camp
 
